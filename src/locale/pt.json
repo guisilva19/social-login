@@ -1,0 +1,10 @@
+{
+  "translation": {
+    "signIn": "Entrar",
+    "signUp": "Inscreva-se",
+    "dontHaveAcccount": "Não tem uma conta?",
+    "alreadyRegisted": "Você já está cadastrado?",
+    "email": "Email",
+    "password": "Senha"
+  }
+}
