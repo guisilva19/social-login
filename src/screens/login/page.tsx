@@ -1,20 +1,12 @@
-import { GoogleLogin } from "@react-oauth/google";
-import { jwtDecode } from "jwt-decode";
 import {
   Container,
-  LoginForm,
-  Input,
-  LoginButton,
-  SocialButtons,
-  LoginInputs,
-  TitleForm,
 } from "./styled";
 
 export default function Login() {
   return (
     <>
       <Container>
-        <LoginForm>
+        {/* <LoginForm>
           <TitleForm>Login</TitleForm>
           <LoginInputs>
             <Input type="email" placeholder="Email" />
@@ -36,7 +28,7 @@ export default function Login() {
               }}
             />
           </SocialButtons>
-        </LoginForm>
+        </LoginForm> */}
       </Container>
     </>
   );
